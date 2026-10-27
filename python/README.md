@@ -33,6 +33,5 @@ configuration. See its [README](datasets/experiment-1/README.md) for the format.
 
 ## License
 
-The code in `src/` is licensed under [LGPL-3.0](src/LICENSE.TXT) (Santiago Morante
-and Juan G. Victores, Universidad Carlos III de Madrid). The dataset is licensed
+The code in `src/` is licensed under [MIT](src/LICENSE.TXT). The dataset is licensed
 under the [Open Database License 1.0](datasets/LICENSE.TXT).

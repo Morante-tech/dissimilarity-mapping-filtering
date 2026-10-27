@@ -93,6 +93,5 @@ pytest
 
 ## License
 
-- The `dmf` package, tests and examples: [MIT](LICENSE).
-- `python/src/`: [LGPL-3.0](python/src/LICENSE.TXT), co-authored with Juan G. Victores (Universidad Carlos III de Madrid).
+- The `dmf` package, tests, examples and the legacy code in `python/src/`: [MIT](LICENSE).
 - `python/datasets/`: [Open Database License (ODbL) 1.0](python/datasets/LICENSE.TXT).
